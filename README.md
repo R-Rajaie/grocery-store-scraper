@@ -1,5 +1,5 @@
-# grocery-store-scraper
-This is a collection of web scrapers for collecting the locations of grocery stores across the US. Namely the ones that do not post their locations online (so the only option is to scrape them yourself). 
+# Store Location Scraper
+This is a collection of web scrapers for collecting the locations of grocery stores across the US (and can work with many other types of chain stores with similarly formatted location selector pages when the code is properly tweaked). Namely the ones that do not post their locations online (so the only option is to scrape them yourself). 
 
 These are created using Selenium (UI automation), Chromedriver (Chrome emulation), Pandas (data collection), and BeautifulSoup4 (html parsing)
 
