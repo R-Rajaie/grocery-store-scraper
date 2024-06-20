@@ -16,3 +16,11 @@ This will create an environment file in your project (ensure you're cd'ed in the
 ### Directions to install required dependencies
 ``` pip install -r requirements.txt ```
 This should install all required dependencies. Ensure you're cd'ed in the project.
+
+
+### Directions to run
+To scrape, just run the corresponding file. To collect every Whole Foods, for example, run `whole_foods_locations.py`. 
+
+
+## Disclaimer
+This was made in part by AI. The code is not perfect, and I do not have a perfect understanding of the libraries I am using (specifically bs4). Therefore, there may be inefficiencies present in the code. Feel free to raise issues or push your own suggestions to improve stability and efficiency. 
