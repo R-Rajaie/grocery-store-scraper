@@ -24,3 +24,5 @@ To scrape, just run the corresponding file. To collect every Whole Foods, for ex
 
 ## Disclaimer
 This was made in part by AI. The code is not perfect, and I do not have a perfect understanding of the libraries I am using (specifically bs4). Therefore, there may be inefficiencies present in the code. Feel free to raise issues or push your own suggestions to improve stability and efficiency. 
+
+Also feel free to use this code as a base for your own needs and customize it accordingly. There are fields I didn't bother to collect since they weren't relevant to me, but maybe they're useful for you. Similarly, you can repurpose this code for grocery store websites which aren't covered in this repo. Most store locators fall under the umbrella of a few different groups, so it should be relatively simple to slightly modify some fields and some logic to fit most situations. 
